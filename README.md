@@ -10,8 +10,9 @@ https://www.udemy.com/course/echo-go-react-restapi/
 デプロイにはrender.comを用いています．
 https://render.com/
 
-API URL
-https://api-effq.onrender.com
+API URL<br>
+期限切れの為現在バックエンドは機能しません<br>
+<s>https://api-effq.onrender.com</s>
 
 WEBアプリ URL
 https://todo-front-eight.vercel.app/
