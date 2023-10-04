@@ -1,4 +1,5 @@
-以下の udemy 講座をもとにGo言語Echoフレームワークで作成したTodo アプリケーションのバックエンド（API）です．
+以下の udemy 講座をもとにGo言語Echoフレームワークで作成した<br>
+Todo アプリケーションのバックエンド（API）です．<br>
 https://www.udemy.com/course/echo-go-react-restapi/
 
 使用技術
